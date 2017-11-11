@@ -1,0 +1,10 @@
+C:\Proyectos\Control_EntregasWeb\Control_EntregasWeb\bin\Control_EntregasWeb.dll
+C:\Proyectos\Control_EntregasWeb\Control_EntregasWeb\bin\Control_EntregasWeb.pdb
+C:\Proyectos\Control_EntregasWeb\Control_EntregasWeb\bin\Control_EntregasWeb.xml
+C:\Proyectos\Control_EntregasWeb\Control_EntregasWeb\bin\Oracle.DataAccess.dll
+C:\Proyectos\Control_EntregasWeb\Control_EntregasWeb\obj\Debug\Control_EntregasWeb.Resources.resources
+C:\Proyectos\Control_EntregasWeb\Control_EntregasWeb\obj\Debug\Control_EntregasWeb.vbproj.GenerateResource.Cache
+C:\Proyectos\Control_EntregasWeb\Control_EntregasWeb\obj\Debug\Control_EntregasWeb.dll
+C:\Proyectos\Control_EntregasWeb\Control_EntregasWeb\obj\Debug\Control_EntregasWeb.xml
+C:\Proyectos\Control_EntregasWeb\Control_EntregasWeb\obj\Debug\Control_EntregasWeb.pdb
+C:\Proyectos\Control_EntregasWeb\Control_EntregasWeb\obj\Debug\Control_EntregasWeb.vbprojResolveAssemblyReference.cache

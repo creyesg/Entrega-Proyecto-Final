@@ -1,0 +1,218 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Control_EntregasWeb
+</name>
+</assembly>
+<members>
+<member name="P:Control_EntregasWeb.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Control_EntregasWeb.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Control_EntregasWeb.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Control_EntregasWeb.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Control_EntregasWeb.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Control_EntregasWeb.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Control_EntregasWeb.CReportViewer.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb.CReportViewer.frmCrystal">
+	<summary>
+frmCrystal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb.CReportViewer.btnReturn">
+	<summary>
+btnReturn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Control_EntregasWeb.Catalog.Catalog.Id">
+	<summary>
+ Identificador del item
+ Se coloca en string para contemplar aquellas llaves compuestas o que son texto como cod_usuario
+ </summary>
+</member><member name="P:Control_EntregasWeb.Catalog.Catalog.Description">
+	<summary>
+ Descripción a mostrar del catalogo
+ </summary>
+</member><member name="P:Control_EntregasWeb.Catalog.Catalog.Data">
+	<summary>
+ Conjunto de datos complentarios para el catalogo
+ </summary>
+</member><member name="T:Control_EntregasWeb.Catalog.Catalog">
+	<summary>
+ Representa un item de un catalogo
+ </summary>
+</member><member name="P:Control_EntregasWeb.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Control_EntregasWeb.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Control_EntregasWeb.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:Control_EntregasWeb._Default.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnEntregados">
+	<summary>
+btnEntregados control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnProceso">
+	<summary>
+btnProceso control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnCancelados">
+	<summary>
+btnCancelados control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnReporteseguimiento">
+	<summary>
+btnReporteseguimiento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnEmpresas">
+	<summary>
+btnEmpresas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnMensajeros">
+	<summary>
+btnMensajeros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnOrderDetail">
+	<summary>
+btnOrderDetail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.lblOrderID">
+	<summary>
+lblOrderID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.txtOrderId">
+	<summary>
+txtOrderId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnViewDetail">
+	<summary>
+btnViewDetail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnEmpresasEnvios">
+	<summary>
+btnEmpresasEnvios control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnEmpleadosEnvios">
+	<summary>
+btnEmpleadosEnvios control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnStatus">
+	<summary>
+btnStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.btnstatustrack">
+	<summary>
+btnstatustrack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Control_EntregasWeb._Default.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
