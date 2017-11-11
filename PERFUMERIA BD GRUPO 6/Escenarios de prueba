@@ -1,0 +1,41 @@
+--crea orden
+begin
+
+ENVIOS_UTILS_PKG.crear_actualiza_orden('Libi Reyes','775874-2','residenciales alamedas 2 casa 4 g SJP',12,1,0,0,null);
+
+end;
+
+
+select * from orders;
+
+--crea orden detalle 
+
+begin 
+
+ENVIOS_UTILS_PKG.crea_actualiza_detalle_order(33,5,25,1,null);
+
+end;
+
+
+--Crea el envio 
+begin
+
+ENVIOS_UTILS_PKG.crea_envio(1,0,0,1);
+
+end;
+
+--TRack de REspuesta
+
+begin
+
+crea_actualiza_track(1,
+                              'guatex', 
+                              'sistema',
+                              'Se está llevando el paquete', 
+                              2,
+                              '14.45571545,-18.235623', 
+                              null
+                              );
+
+end;
+
